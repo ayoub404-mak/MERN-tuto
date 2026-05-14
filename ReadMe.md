@@ -1,3 +1,5 @@
+<img width="916" height="464" alt="image" src="https://github.com/user-attachments/assets/ca8ef9ea-c470-47c9-bdc3-8355f69e63ff" />
+
 # Workout Tracker - MERN Stack Application
 
 A full-stack web application for tracking and managing workouts. Built with the **MERN Stack** (MongoDB, Express, React, Node.js), this application allows users to create, read, update, and delete workout entries with a clean, intuitive interface.
@@ -595,3 +597,4 @@ For questions or issues, please open an issue on the GitHub repository.
 ---
 
 **Happy Tracking! 💪**
+
